@@ -3,4 +3,4 @@
 - Inherently-interpretable DNNs
 - Evaluation of explanations on down-stream tasks
 -------------------------------------------------
-`short fact` I'm so grateful to the authors for their well-written and well-organized documentation/essay/paper. 
+`short fact` I'm so grateful to the authors for their well-written and well-organized documentation/essay/paper, for example [detectron2](detectron2).
