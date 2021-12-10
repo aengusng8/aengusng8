@@ -1,6 +1,6 @@
-- Network conceptualization `:hugs:`
+- Network conceptualization :hugs:
 - Prototype-based explanations
-- Inherently-interpretable DNNs
+- Inherently-interpretable DNNs :hugs:
 - Evaluation of explanations on down-stream tasks
 #### [Giang Nguyen](https://github.com/giangnguyen2412).
 -------------------------------------------------
