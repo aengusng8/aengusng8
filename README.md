@@ -1,4 +1,4 @@
-- Network conceptualization
+- Network conceptualization `:hugs:`
 - Prototype-based explanations
 - Inherently-interpretable DNNs
 - Evaluation of explanations on down-stream tasks
