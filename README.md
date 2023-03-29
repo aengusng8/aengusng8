@@ -1,6 +1,6 @@
 My research interests are centered around Computer Vision and Deep Learning, particularly deep generative models. My recent works focus on image generation and manipulation based on diffusion probabilistic models and energy-based models.
 
-*- [My literature review](https://docs.google.com/spreadsheets/d/1fIBhi6Ebc2GxKqrLhFgswHathmu2kdj5d7OHZFb5M2M/edit?usp=sharing), and huggingface/diffusers pull requests [[1*]](https://github.com/huggingface/diffusers/pull/2665) [[2*]](https://github.com/huggingface/diffusers/tree/main/examples/community#ddim-noise-comparative-analysis-pipeline) [[3]](https://github.com/huggingface/diffusers/pull/2058)*
+- [My literature review](https://docs.google.com/spreadsheets/d/1fIBhi6Ebc2GxKqrLhFgswHathmu2kdj5d7OHZFb5M2M/edit?usp=sharing), and huggingface/diffusers pull requests [[1*]](https://github.com/huggingface/diffusers/pull/2665) [[2*]](https://github.com/huggingface/diffusers/tree/main/examples/community#ddim-noise-comparative-analysis-pipeline) [[3]](https://github.com/huggingface/diffusers/pull/2058)*
 
 > There's too many problems. So how can you work on all problems simultaneously? You solve the meta-problem, which is to me just intelligence and how do you automate it? - Andrej Karpathy
 
