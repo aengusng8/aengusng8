@@ -1,4 +1,7 @@
-My research interests are centered around Computer Vision and Deep Learning, particularly deep generative models. My recent works focus on image generation and manipulation based on diffusion probabilistic models and energy-based models.
+My research interest lies in developing robust generative models and applying them to diverse applications, including conditional sampling, disentangled representation learning, and reasoning. Currently, my goal is to build a generative model capable of producing high-fidelity, diverse, and high-dimensional samples in a **_single forward pass_**.
+
+_My recent works focus on image generation and manipulation using ODE/SDE-based generative models, specifically diffusion probabilistic models._
+
 - My huggingface/diffusers pull requests [[1*]](https://github.com/huggingface/diffusers/pull/2665) [[2*]](https://github.com/huggingface/diffusers/tree/main/examples/community#ddim-noise-comparative-analysis-pipeline) [[3]](https://github.com/huggingface/diffusers/pull/2058)
 - My math derivation of DDPM [[PDF]](https://github.com/aengusng8/aengusng8/blob/main/Math_derivation__DDPM.pdf)
 - My literature review on diffusion probabilistic models [[Google Sheets]](https://docs.google.com/spreadsheets/d/1fIBhi6Ebc2GxKqrLhFgswHathmu2kdj5d7OHZFb5M2M/edit?usp=sharing)
